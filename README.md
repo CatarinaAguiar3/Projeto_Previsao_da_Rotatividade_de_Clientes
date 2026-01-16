@@ -1,5 +1,3 @@
-# Previsão de rotatividade de clientes de Telecomunicações (Churn Prediction)
-
 <img src= "https://raw.githubusercontent.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes/refs/heads/main/Imagens/Capa%20Github%202.png" width=100% > 
 
 ## Introdução
