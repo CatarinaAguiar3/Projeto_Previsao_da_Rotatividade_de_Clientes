@@ -1,5 +1,7 @@
 # Previsão de rotatividade de clientes de Telecomunicações (Churn Prediction)
 
+<img src= "https://raw.githubusercontent.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes/refs/heads/main/Imagens/Capa%20Github%202.png" width=100% > 
+
 ## Introdução
 A rotatividade de clientes (churn) é definida como a propensão dos clientes a deixarem de fazer negócios com uma empresa em um determinado período de tempo.
 Este projeto utiliza um cojunto de dados do site <a href="https://www.kaggle.com/datasets/abhinav89/telecom-customer">Kaggle</a> para prever se um cliente realizará churn em uma 
