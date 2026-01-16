@@ -1,4 +1,4 @@
-# Previsão de rotatividade de clientes de Telecomunicações
+# Previsão de rotatividade de clientes de Telecomunicações (Churn Prediction)
 
 ## Introdução
 A rotatividade de clientes (churn) é definida como a propensão dos clientes a deixarem de fazer negócios com uma empresa em um determinado período de tempo.
