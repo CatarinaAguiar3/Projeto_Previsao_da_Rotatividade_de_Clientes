@@ -1,4 +1,4 @@
-#<img src= "https://raw.githubusercontent.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes/refs/heads/main/Imagens/Capa%20Github%202.png" width=100% >.
+# <img src= "https://raw.githubusercontent.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes/refs/heads/main/Imagens/Capa%20Github%202.png" width=100% >.
 
 ## Introdução
 A rotatividade de clientes (churn) é definida como a propensão dos clientes a deixarem de fazer negócios com uma empresa em um determinado período de tempo.
